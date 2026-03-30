@@ -1,0 +1,18 @@
+{
+  "name": "JEBRAN68",
+  "version": "1.0.0",
+  "scrapers": [
+    {
+      "id": "shooflive",
+      "name": "shooflive",
+      "description": "MoviesDrive - Movies and TV shows with multiple streaming servers",
+      "version": "2.0.0",
+      "author": "JK",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/shooflive.js",
+      "enabled": true,
+      "formats": ["mp4", "mkv", "m3u8"],
+      "logo": "https://i.postimg.cc/j28cW82h/images.jpg",
+      "contentLanguage": ["AR"]
+    }
+ 
